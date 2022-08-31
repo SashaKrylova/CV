@@ -1,0 +1,19 @@
+body {
+            background-color: #F2D7D9;
+        }
+hr {
+    border-style: none;
+    border-top: 0.5rem dotted #D3CEDF;
+
+    height: 2px;
+    width: 10%;
+    }
+h1 {
+    color: #748DA6;
+    }
+h3 {
+    color: #748DA6;
+    }
+#My_photo {
+    border-radius: 100%;
+}
